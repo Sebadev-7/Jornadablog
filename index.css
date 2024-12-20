@@ -559,7 +559,24 @@ span.material-symbols-outlined {
         text-align: center;
         display: block;
     }
-
-    
-   
+    .pre-footer__image{
+        
     }
+    .footer__logo-icon{
+        margin-right:17rem;
+    }
+    .footer__info-container{
+        display:flex;
+        justify-content:center;
+        flex-direction:row;
+        font-size:6px;
+        padding:1px;
+        flex-wrap:wrap;
+    }
+    .footer__text-info{
+        font-size: 12px;
+        gap:1px;
+    }
+    
+}
+    
