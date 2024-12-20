@@ -398,6 +398,15 @@ span.material-symbols-outlined {
     display:none;
 }
 
+@media screen and (min-width: 1200px) {
+    .banner__img{
+        width: 100vw; 
+    }
+    .pre-footer__image{
+        width: 100vw; 
+    }
+}
+
 
 
 /* Mostrar el logo para notebook solo en pantallas grandes */
@@ -561,6 +570,7 @@ span.material-symbols-outlined {
         display: block;
     }
     .pre-footer__image{
+        
         
     }
     .footer__logo-icon{
