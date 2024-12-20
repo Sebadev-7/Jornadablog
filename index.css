@@ -493,6 +493,7 @@ span.material-symbols-outlined {
 
     .ofertas{
         gap:10px;
+        align-items: center;
     }
     .busca__categorias{
         flex-wrap: wrap; 
@@ -549,7 +550,7 @@ span.material-symbols-outlined {
         flex-direction:column;
     }
     .ofertas__cards--elemento{
-        width: 22rem;
+        width: 29rem;
     }
 
     .busca__categoria {
